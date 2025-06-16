@@ -1,0 +1,38 @@
+# Users Service
+
+This is the Users Service component of the Flight Reservation System microservices architecture.
+
+## Overview
+
+The Users Service handles user management functionality including user registration, authentication, profile management, and user-related operations within the flight reservation system.
+
+## Features
+
+- User registration and account creation
+- User authentication and authorization
+- User profile management
+- User preferences and settings
+- Account verification and password reset
+
+## Architecture
+
+This service is part of a distributed microservices architecture where each service handles specific business domains independently.
+
+## API Endpoints
+
+## Dependencies
+
+- Database for user data persistence
+- Authentication service integration
+- Message queue for inter-service communication
+
+## Getting Started
+
+1. Install dependencies
+2. Configure environment variables
+3. Set up database connection
+4. Run the service
+
+## Contributing
+
+Please follow the established coding standards and ensure all tests pass before submitting changes.
