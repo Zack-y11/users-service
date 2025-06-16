@@ -1,0 +1,12 @@
+{
+  "name": "users-service",
+  "version": "1.0.0",
+  "description": "This is the Users Service component of the Flight Reservation System microservices architecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
